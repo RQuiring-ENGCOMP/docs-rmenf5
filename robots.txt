@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-m36gnj.indocuan-pro.cfd/sitemap.xml
